@@ -22,3 +22,7 @@ XBUTTON2
 SendInput
 INPUT
 GetCursorPos
+GetMessage
+TranslateMessage
+DispatchMessage
+MSG

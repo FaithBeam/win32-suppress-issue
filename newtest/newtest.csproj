@@ -13,12 +13,4 @@
       </PackageReference>
     </ItemGroup>
 
-    <ItemGroup>
-      <ProjectReference Include="..\WpfApp1\WpfApp1.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <ProjectReference Include="..\WpfApp1\WpfApp1.csproj" />
-    </ItemGroup>
-
 </Project>
